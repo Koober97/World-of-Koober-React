@@ -2,7 +2,7 @@
 
 ## Description
 
-- This is my portfolio for my Coding Bootcamp and UNC Chapel Hill. It will be regularly update, so for now, it is definitely a work in progress!
+- This is my portfolio for my Coding Bootcamp at UNC Chapel Hill. It will be regularly updated, so for now, it is definitely a work in progress!
 
 ## Screenshot of Deployed Site
 
