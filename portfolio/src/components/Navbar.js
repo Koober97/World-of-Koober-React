@@ -3,7 +3,7 @@ import { Navbar, Container, Nav } from 'react-bootstrap';
 const NavBar = ({ selectSection }) => {
 	const styles = {
 		background: {
-			background: '#5e7e7c',
+			background: '#1d84b5',
 		},
 		color: {
 			color: '#fff',
@@ -20,7 +20,7 @@ const NavBar = ({ selectSection }) => {
 					href='#top'
 					style={styles.color}
 				>
-					Farrell DiAnni
+					Brian Koo
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls='basic-navbar-nav' />
 				<Navbar.Collapse id='basic-navbar-nav' className='flex-grow-0'>

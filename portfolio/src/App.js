@@ -10,10 +10,10 @@ const App = () => {
 
 	const styles = {
 		background: {
-			background: '#5e7e7c',
+			background: '#53a2be',
 		},
 		color: {
-			color: '#fff',
+			color: '#132e32',
 		},
 		font: {
 			fontFamily: `'Oswald', sans-serif`,

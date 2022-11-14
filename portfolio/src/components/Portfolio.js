@@ -22,7 +22,7 @@ const Portfolio = () => {
 			title: 'USS-Grimes',
 			img: 'https://upload.wikimedia.org/wikipedia/commons/1/12/USS_Grimes_%28APA-172%29_underway_in_harbour%2C_circa_in_1944.jpg',
 			description: 'Created to show never beforeseen pictures of the crew on the USS-Grimes and the journeys it took on.',
-			url: 'https://github.com/TSRodgers/uss-grimes',
+			url: 'https://pacific-hollows-15654.herokuapp.com/',
 		},
 	];
 

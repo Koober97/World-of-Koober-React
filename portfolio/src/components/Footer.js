@@ -4,7 +4,7 @@ import 'bootstrap-icons/font/bootstrap-icons.css';
 const Footer = () => {
 	const styles = {
 		background: {
-			background: '#5e7e7c',
+			background: '#1d84b5',
 		},
 		color: {
 			color: '#fff',
