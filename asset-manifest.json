@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/World-of-Koober-React/static/css/main.7a77b10b.css",
+    "main.js": "/World-of-Koober-React/static/js/main.7808042e.js",
+    "static/media/placeholder-profile.png": "/World-of-Koober-React/static/media/placeholder-profile.54286e3fd9a6c78107c9.png",
+    "static/media/bootstrap-icons.woff?": "/World-of-Koober-React/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/World-of-Koober-React/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "index.html": "/World-of-Koober-React/index.html",
+    "main.7a77b10b.css.map": "/World-of-Koober-React/static/css/main.7a77b10b.css.map",
+    "main.7808042e.js.map": "/World-of-Koober-React/static/js/main.7808042e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a77b10b.css",
+    "static/js/main.7808042e.js"
+  ]
+}
